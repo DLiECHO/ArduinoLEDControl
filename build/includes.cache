@@ -1,0 +1,197 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "D:\\WindowsApps\\ArduinoLLC.ArduinoIDE_1.8.42.0_x86__mdqgnx93n4wtt\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "D:\\WindowsApps\\ArduinoLLC.ArduinoIDE_1.8.42.0_x86__mdqgnx93n4wtt\\hardware\\arduino\\avr\\variants\\standard"
+  },
+  {
+    "Sourcefile": "d:\\2021上\\无线传感\\实验二\\code\\build\\sketch\\code.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "D:\\WindowsApps\\ArduinoLLC.ArduinoIDE_1.8.42.0_x86__mdqgnx93n4wtt\\hardware\\arduino\\avr\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "d:\\2021上\\无线传感\\实验二\\code\\build\\sketch\\code.ino.cpp",
+    "Include": "LiquidCrystal_I2C.h",
+    "Includepath": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\LiquidCrystal_I2C"
+  },
+  {
+    "Sourcefile": "d:\\2021上\\无线传感\\实验二\\code\\build\\sketch\\code.ino.cpp",
+    "Include": "IRremote.h",
+    "Includepath": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\IRremote\\src"
+  },
+  {
+    "Sourcefile": "d:\\2021上\\无线传感\\实验二\\code\\build\\sketch\\code.ino.cpp",
+    "Include": "TimerOne.h",
+    "Includepath": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\TimerOne"
+  },
+  {
+    "Sourcefile": "d:\\2021上\\无线传感\\实验二\\code\\build\\sketch\\code.ino.cpp",
+    "Include": "SoftwareSerial.h",
+    "Includepath": "D:\\WindowsApps\\ArduinoLLC.ArduinoIDE_1.8.42.0_x86__mdqgnx93n4wtt\\hardware\\arduino\\avr\\libraries\\SoftwareSerial\\src"
+  },
+  {
+    "Sourcefile": "d:\\2021上\\无线传感\\实验二\\code\\build\\sketch\\code.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\WindowsApps\\ArduinoLLC.ArduinoIDE_1.8.42.0_x86__mdqgnx93n4wtt\\hardware\\arduino\\avr\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\WindowsApps\\ArduinoLLC.ArduinoIDE_1.8.42.0_x86__mdqgnx93n4wtt\\hardware\\arduino\\avr\\libraries\\Wire\\src\\utility\\twi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\LiquidCrystal_I2C\\LiquidCrystal_I2C.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\IRremote\\src\\IRremote.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\IRremote\\src\\esp32.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\IRremote\\src\\irPronto.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\IRremote\\src\\irReceive.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\IRremote\\src\\irSend.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\IRremote\\src\\ir_Aiwa.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\IRremote\\src\\ir_BoseWave.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\IRremote\\src\\ir_Denon.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\IRremote\\src\\ir_Dish.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\IRremote\\src\\ir_JVC.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\IRremote\\src\\ir_LG.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\IRremote\\src\\ir_Lego_PF.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\IRremote\\src\\ir_MagiQuest.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\IRremote\\src\\ir_Mitsubishi.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\IRremote\\src\\ir_NEC.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\IRremote\\src\\ir_Panasonic.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\IRremote\\src\\ir_RC5_RC6.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\IRremote\\src\\ir_Samsung.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\IRremote\\src\\ir_Sanyo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\IRremote\\src\\ir_Sharp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\IRremote\\src\\ir_Sharp_alt.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\IRremote\\src\\ir_Sony.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\IRremote\\src\\ir_Template.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\IRremote\\src\\ir_Whynter.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\IRremote\\src\\nRF5.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\IRremote\\src\\sam.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\DELL\\Documents\\Arduino\\libraries\\TimerOne\\TimerOne.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\WindowsApps\\ArduinoLLC.ArduinoIDE_1.8.42.0_x86__mdqgnx93n4wtt\\hardware\\arduino\\avr\\libraries\\SoftwareSerial\\src\\SoftwareSerial.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
